@@ -1,4 +1,3 @@
-<img src="banner.gif" hight=90% width=100% />
 
 <h2 align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=600&size=30&letterSpacing=&pause=1000&color=7233F7&center=true&vCenter=true&width=435&lines=Hi..!+++I'am+Mostafa Monoar;MERN+stack+Developer;Competitive+Programmer" alt="Typing SVG" /></a>
