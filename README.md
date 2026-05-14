@@ -35,19 +35,19 @@
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
 
-  <a href="https://www.linkedin.com/in/md-rakib-ali-383947218/" target="_blank">
+  <a href="https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <a href="https://x.com/rakibislam44" target="_blank">
+  <a href="https://x.com/rakibislam4" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
 
-  <a href="https://www.facebook.com/rakibislam.KCN" target="_blank">
+  <a href="https://www.facebook.com/share/1B6U7kjZpa/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 
-  <a href="https://www.instagram.com/rakibislam789/" target="_blank">
+  <a href="https://www.instagram.com/_mmbijoy_?igsh=MTl5MjB1cHB6NHJiOQ==" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 
